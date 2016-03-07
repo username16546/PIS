@@ -8,9 +8,9 @@ namespace NewProject
 {
     class Class
     {
-        public void Method()
+        public void Method2()
         {
-            Console.Write("");
+            Console.WriteLine("ajkbfkasf");
         }
     }
 }
